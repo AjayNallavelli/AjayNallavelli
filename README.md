@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AjayNallavelli
-- ♉ I’m interested in Science and Technologies ,  Environment , Health (Yoga)
+- ♉ I’m interested in Science and Technology ,  Environment , Health (Yoga)
 - 💎 I’m currently learning Power BI
 - 🖥️ I’m looking to collaborate on Data Analysis
 
